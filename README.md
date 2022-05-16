@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 
-- :woman_technologist: About Me : I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- :woman_technologist: About Me : I am a Future Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 - :telescope: I am studying computer engineering at Eskisehir Technical University.
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" title="codepen" alt="Codepen" width="40" height="40"/>&nbsp;
 </div>
 <br>
-- :fire: My Stats :
+:fire: My Stats :
 <div align="center">
   <br>
 
@@ -65,5 +65,8 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusarabgc)](https://github.com/anuraghazra/github-readme-stats)
 
+  <br>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrusarabgc&show_icons=true)
   <br>
 </div>
