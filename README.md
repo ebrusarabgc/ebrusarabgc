@@ -59,14 +59,14 @@ Here are some ideas to get you started:
 <div align="center">
   <br>
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ebrusarabgc)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ebrusarabgc&theme=radical)](https://git.io/streak-stats)
 
   <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusarabgc)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrusarabgc&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrusarabgc&show_icons=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrusarabgc&show_icons=true&theme=radical)
   <br>
 </div>
