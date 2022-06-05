@@ -25,11 +25,6 @@ Here are some ideas to get you started:
   <br>
   <img src="https://komarev.com/ghpvc/?username=ebrusarabg&style=flat-square&color=blue" alt=""/>
   <br>
-  <h1>
-    hello world
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
-  </h1>
-  <br>
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </div>
 <hr>
