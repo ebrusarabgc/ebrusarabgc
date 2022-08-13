@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
 </div>
 
-- :woman_technologist: About Me : I am a Future Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- :woman_technologist: About Me : I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 - :telescope: I am studying computer engineering at Eskisehir Technical University.
 
